@@ -9,7 +9,7 @@ Group Members:
 * Brady Nelson
 
 Sub-Topics:
-* Pattern Matching Using Grep � Dustin
+* Pattern Matching Using Grep - Dustin
 * Globbing - Kyle
 
 
