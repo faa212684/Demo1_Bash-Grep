@@ -11,7 +11,7 @@ Group Members:
 Sub-Topics:
 * Pattern Matching Using Grep - Dustin
 * Globbing - Kyle
-
+* Accessessing Windows Files in Bash - Elliott
 
 
 
