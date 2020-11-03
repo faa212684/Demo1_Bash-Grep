@@ -19,6 +19,8 @@ Sub-Topics:
 
 The grep command is a Linux/Unix tool to search for a string or pattern in a file. The string or pattern that is the target of the search is called a regular expression. This basic expression is then searched for in the specified files. After the search is complete, the grep command returns the line of the file that contained the search criteria.
 
+![Demo](https://github.com/dpott60/Demo1_Bash-Grep/blob/main/demo.PNG)
+
 The grep tool has many operators that display a variety of results and affect different options for searching.
 Here are some of common operators for the grep tool:
 * -w 
