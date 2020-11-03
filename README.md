@@ -47,6 +47,10 @@ Examples:
 * grep -rlw is * - searches for all files as well as files in any subdirectories, that contain the word is.
 * grep -lvw This * - searches for all files in the current directory who do not contain the word This.
 
+Sources for Grep Project:
+* https://phoenixnap.com/kb/grep-command-linux-unix-examples
+* http://linuxcommand.org/lc3_man_pages/grep1.html
+
 
 
 
