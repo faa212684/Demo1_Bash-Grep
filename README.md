@@ -7,7 +7,7 @@ Picture Source: https://bashlogo.com/
 Group Members:
 * ![profile](https://avatars2.githubusercontent.com/u/42753502?s=64&v=4)  Dustin Potter
 * Elliott Tuttle
-* Kyle Shaw
+* <img src="https://avatars0.githubusercontent.com/u/59935321?s=400&u=38b9e12464ae119af990b17d4fa4d0114c91c046&v" with=75 height=75> Kyle Shaw
 * Brady Nelson
 
 Sub-Topics:
