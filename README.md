@@ -5,7 +5,7 @@ Team 1 Digital Forensics Bash/Grep Demo
 Picture Source: https://bashlogo.com/
 
 Group Members:
-* Dustin Potter
+* ![profile](https://avatars2.githubusercontent.com/u/42753502?s=64&v=4)  Dustin Potter
 * Elliott Tuttle
 * Kyle Shaw
 * Brady Nelson
