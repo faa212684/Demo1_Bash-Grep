@@ -63,3 +63,8 @@ Demonstration Video: https://use.vg/bbvIvz
 ## Bash - Globbing in Bash
 
 Bash does not natively support regular expressions like other programming languages. The Bash shell features a unique tool for matching or expanding specific types of patterns and this tool is called globbing. Globbling is mainly used when trying to match filenames or searching for content in a file. This demmo will teach you about the specific wildcard characters that are used to create the patterns needed.
+
+* Asterisk - (*)
+  - The Asterisk character is used to match zero or more charactes. This is useful if you have less info to seach by in a file.
+  - Example 1: Let's say that I know the file I am looking for is a .txt file but I don't know anything else about it so I would use the comand ls -l *.txt to get all of the txt files into a list.
+  - Example 2: lets say you are looking for a file of a person but all  you know is the first letter of their name and nothing else. The comand for this would be ls -l K*.* so I can find the files starting with the letter K.
