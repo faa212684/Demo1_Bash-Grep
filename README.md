@@ -65,7 +65,7 @@ Demonstration Video: https://use.vg/bbvIvz
 Bash does not natively support regular expressions like other programming languages. The Bash shell features a unique tool for matching or expanding specific types of patterns and this tool is called globbing. Globbling is mainly used when trying to match filenames or searching for content in a file. This demmo will teach you about the specific wildcard characters that are used to create the patterns needed.
 
 * Question Mmark - (?)
-  - The question mark is used when you are trying to match a sing character. It can be used multiple times for multiple characers but you have to know how many characters you need.
+  - The question mark is used when you are trying to match a single character. It can be used multiple times for multiple characers but you have to know how many characters you need.
   - Example 1: Lets say you know that the file you are looking for has 4 letters in it and is also a doc file. You can use the command ls -l ????.doc to find everything in the file that is has for letters and is a doc.
 
 * Asterisk - (*)
@@ -83,5 +83,9 @@ Bash does not natively support regular expressions like other programming langua
 * Caret -(^)
   - the caret is also used with the square brackets but this time out side of them. The caret has the exact same functions as the exclimation sign.
   - Example 1: Lets just use the same example as the exclamation sign then and try to find all the students with names that start with A, B, or C. This time you can use the command grep '^[A-C]' students.txt to find them.
+  
+My sources are:
+* https://www.youtube.com/watch?v=hQyXuuBbCOo
+* https://linuxhint.com/bash_globbing_tutorial/
   
   
