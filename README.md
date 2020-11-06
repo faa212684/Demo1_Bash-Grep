@@ -121,7 +121,9 @@ To show your hidden files, you'll want to run the command `ls -la`
 From here, you are able to access all of your files via your Bash Operating System.  This will allow you to do a multitude of things, all within your Virtual Machine. 
 
 My sources: 
+
 https://www.how2shout.com/how-to/how-to-access-windows-subsystem-for-linux-from-ubuntu-terminal.html
 
 Source for tools to use while inside your directory:
+
 https://www.ibm.com/support/knowledgecenter/ssw_aix_72/devicemanagement/cmd_display_dir_content.html
