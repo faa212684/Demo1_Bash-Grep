@@ -1,0 +1,14 @@
+Tar Examples
+
+Tarring file
+  tar -cvf filename.tar /home/user/filename.txt
+ 
+Zipping Tarballs
+  tar cvzf filename.tar.gz /home/user/filename.txt
+  OR
+  tar cvzf filename.tgz /home/user/filename.txt
+  
+ Extracting compressed tarballs
+  tar -xvf filename.tar.gz
+  OR
+  tar -xvf filename.tar.gz -C /home/user/new location
