@@ -66,14 +66,14 @@ Bash does not natively support regular expressions like other programming langua
 
 * Question Mmark - (?)
   - The question mark is used when you are trying to match a single character. It can be used multiple times for multiple characers but you have to know how many characters you need.
-  - Example 1: Lets say you know that the file you are looking for has 4 letters in it and is also a doc file. You can use the command ls -l ????.docx to find everything in the file that is has for letters and is a doc.
+  - Example 1: Lets say you know that the file you are looking for has 4 letters in it and is also a doc file. You can use the command ls -l ????.docx to find everything in the file that has for letters and is a doc.
 
 * Asterisk - (*)
   - The Asterisk character is used to match zero or more charactes. This is useful if you have less info to seach by in a file.
-  - Example 1: Let's say that I know the file I am looking for is a .txt file but I don't know anything else about it so I would use the comand ls -l *.txt to get all of the txt files into a list.
+  - Example 1: Let's say that you know the file you are looking for is a .txt file but you don't know anything else about it so you would use the comand ls -l *.txt to get all of the txt files into a list.
   
 * Square Brackets -([])
-  - The square brackets are sued to mach a chracter from a specific range.
+  - The square brackets are used to mach a chracter from a specific range.
   - Example 1: Lets say you know that you are looking for HarryPotter books 1 - 5 but don't know if you have all of them. Run ls -l HarryPotter[1-5].docx to try and find them.
   
 * Exclamation sign - (!)
