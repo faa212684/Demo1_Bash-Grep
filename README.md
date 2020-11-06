@@ -89,3 +89,39 @@ My sources are:
 * https://linuxhint.com/bash_globbing_tutorial/
   
   
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+## Accessessing Windows Files in Bash
+
+Accessessing Windows Files while using Bash can be useful for multiple reasons.  A simple but very practical use of this is being able to access the files on your system inside of your bash terminal.  This will allow you to reference files in Windows inside the terminal, allowing you to edit files, view files, and work with them.  Bash offers a variety of very powerful and useful tools that you can incorporate with your Windows files.  In order to proceed access your Windows files inside of bash, there is a few things you mush do before hand. 
+
+* First: 
+You must start up your Bash Shell.  I will be using Ubuntu for my demonstration 
+
+* Next: You will need to mount your Windows Drive that you want to access in your terminal, such as your C: drive or you D: drive.  
+To do this, run the command 
+`cd /mnt/` - This will change your directory to "Mount" as mnt stands for Mount
+
+From here, you should/can run `ls`
+
+This should should your drives that you're able to get access to.
+
+`cd c` - This will change your directory to your C Drive
+
+`cd d` - This will change your directory to your D Drive
+
+Now that you're in your Drive, you can run `ls` again to show your files inside the drive, and access them as you need.  
+
+To show your hidden files, you'll want to run the command `ls -la`
+
+From here, you are able to access all of your files via your Bash Operating System.  This will allow you to do a multitude of things, all within your Virtual Machine. 
+
+My sources: 
+https://www.how2shout.com/how-to/how-to-access-windows-subsystem-for-linux-from-ubuntu-terminal.html
+
+Source for tools to use while inside your directory:
+https://www.ibm.com/support/knowledgecenter/ssw_aix_72/devicemanagement/cmd_display_dir_content.html
