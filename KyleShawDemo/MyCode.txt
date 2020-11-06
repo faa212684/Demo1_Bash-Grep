@@ -1,0 +1,5 @@
+ls -l ????.docx
+ls -l *.txt
+ls -l HarryPotter[1-5].docx
+grep [!A-C] students.txt
+grep '^[A-C]' students.txt
