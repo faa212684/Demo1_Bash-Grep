@@ -13,7 +13,7 @@ Group Members:
 Sub-Topics:
 * Pattern Matching Using Grep - Dustin
 * Globbing - Kyle
-* Accessessing Windows Files in Bash - Elliott
+* Accessing Windows Files in Bash - Elliott
 
 ## Grep - Global Regular Expression Print
 
@@ -95,9 +95,9 @@ My sources are:
 
 
 
-## Accessessing Windows Files in Bash
+## Accessing Windows Files in Bash
 
-Accessessing Windows Files while using Bash can be useful for multiple reasons.  A simple but very practical use of this is being able to access the files on your system inside of your bash terminal.  This will allow you to reference files in Windows inside the terminal, allowing you to edit files, view files, and work with them.  Bash offers a variety of very powerful and useful tools that you can incorporate with your Windows files.  In order to proceed access your Windows files inside of bash, there is a few things you mush do before hand. 
+Accessing Windows Files while using Bash can be useful for multiple reasons.  A simple but very practical use of this is being able to access the files on your system inside of your bash terminal.  This will allow you to reference files in Windows inside the terminal, allowing you to edit files, view files, and work with them.  Bash offers a variety of very powerful and useful tools that you can incorporate with your Windows files.  In order to proceed access your Windows files inside of bash, there is a few things you mush do before hand. 
 
 * First: 
 You must start up your Bash Shell.  I will be using Ubuntu for my demonstration 
