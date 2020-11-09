@@ -14,6 +14,7 @@ Sub-Topics:
 * Pattern Matching Using Grep - Dustin
 * Globbing - Kyle
 * Accessing Windows Files in Bash - Elliott
+* Tar Archiving - Brady
 
 ## Grep - Global Regular Expression Print
 
